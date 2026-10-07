@@ -1,0 +1,16 @@
+{
+  "driver": "adhi",
+  "date": "2026-05-17",
+  "start_time": "2026-05-17T11:57:26.728914",
+  "end_time": "2026-05-17T11:59:24.188969",
+  "duration_seconds": 117,
+  "alerts": {
+    "drowsy": 0,
+    "yawn": 1,
+    "head": 0,
+    "phone": 0
+  },
+  "final_score": 0.0,
+  "risk_level": "ALERT",
+  "safety_rating": "\u2605\u2605\u2605\u2605\u2606  Good \u2013 Minor fatigue signs"
+}

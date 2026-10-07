@@ -1,0 +1,20 @@
+====================================================
+       DRIVER DROWSINESS SESSION REPORT
+====================================================
+  Driver        : kushal
+  Date          : 2026-05-17
+  Start Time    : 12:57:37
+  End Time      : 13:00:42
+  Duration      : 03m 04s
+====================================================
+  ALERT SUMMARY
+  Drowsy Alerts : 0
+  Yawn Alerts   : 1
+  Head Alerts   : 1
+  Phone Alerts  : 0
+  Final Score   : 0.0 / 100
+  Risk Level    : ALERT
+====================================================
+  SAFETY RATING
+  ★★★★☆  Good – Minor fatigue signs
+====================================================

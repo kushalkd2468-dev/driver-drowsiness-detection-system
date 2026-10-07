@@ -1,0 +1,16 @@
+{
+  "driver": "kushal",
+  "date": "2026-05-20",
+  "start_time": "2026-05-20T08:38:53.698625",
+  "end_time": "2026-05-20T08:46:57.603354",
+  "duration_seconds": 483,
+  "alerts": {
+    "drowsy": 38,
+    "yawn": 0,
+    "head": 1,
+    "phone": 0
+  },
+  "final_score": 0.0,
+  "risk_level": "ALERT",
+  "safety_rating": "\u2605\u2606\u2606\u2606\u2606  Critical \u2013 Do not drive!"
+}

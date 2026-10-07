@@ -1,0 +1,16 @@
+{
+  "driver": "adhi",
+  "date": "2026-05-17",
+  "start_time": "2026-05-17T11:27:46.372475",
+  "end_time": "2026-05-17T11:36:27.088667",
+  "duration_seconds": 520,
+  "alerts": {
+    "drowsy": 23,
+    "yawn": 1,
+    "head": 1,
+    "phone": 0
+  },
+  "final_score": 0.0,
+  "risk_level": "ALERT",
+  "safety_rating": "\u2605\u2606\u2606\u2606\u2606  Critical \u2013 Do not drive!"
+}

@@ -1,0 +1,20 @@
+====================================================
+       DRIVER DROWSINESS SESSION REPORT
+====================================================
+  Driver        : divya
+  Date          : 2026-05-20
+  Start Time    : 13:04:52
+  End Time      : 13:12:30
+  Duration      : 07m 38s
+====================================================
+  ALERT SUMMARY
+  Drowsy Alerts : 62
+  Yawn Alerts   : 0
+  Head Alerts   : 1
+  Phone Alerts  : 0
+  Final Score   : 84.6 / 100
+  Risk Level    : CRITICAL
+====================================================
+  SAFETY RATING
+  ★☆☆☆☆  Critical – Do not drive!
+====================================================

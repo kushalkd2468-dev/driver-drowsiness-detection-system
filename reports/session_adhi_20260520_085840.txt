@@ -1,0 +1,20 @@
+====================================================
+       DRIVER DROWSINESS SESSION REPORT
+====================================================
+  Driver        : adhi
+  Date          : 2026-05-20
+  Start Time    : 08:54:49
+  End Time      : 08:58:40
+  Duration      : 03m 51s
+====================================================
+  ALERT SUMMARY
+  Drowsy Alerts : 23
+  Yawn Alerts   : 8
+  Head Alerts   : 0
+  Phone Alerts  : 0
+  Final Score   : 0.0 / 100
+  Risk Level    : ALERT
+====================================================
+  SAFETY RATING
+  ★☆☆☆☆  Critical – Do not drive!
+====================================================

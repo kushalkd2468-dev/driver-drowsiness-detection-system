@@ -1,0 +1,20 @@
+====================================================
+       DRIVER DROWSINESS SESSION REPORT
+====================================================
+  Driver        : trisha
+  Date          : 2026-05-21
+  Start Time    : 09:33:46
+  End Time      : 09:40:56
+  Duration      : 07m 09s
+====================================================
+  ALERT SUMMARY
+  Drowsy Alerts : 164
+  Yawn Alerts   : 0
+  Head Alerts   : 0
+  Phone Alerts  : 0
+  Final Score   : 0.0 / 100
+  Risk Level    : ALERT
+====================================================
+  SAFETY RATING
+  ★☆☆☆☆  Critical – Do not drive!
+====================================================

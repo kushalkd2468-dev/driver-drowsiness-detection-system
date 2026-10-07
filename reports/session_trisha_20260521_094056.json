@@ -1,0 +1,16 @@
+{
+  "driver": "trisha",
+  "date": "2026-05-21",
+  "start_time": "2026-05-21T09:33:46.894453",
+  "end_time": "2026-05-21T09:40:56.578428",
+  "duration_seconds": 429,
+  "alerts": {
+    "drowsy": 164,
+    "yawn": 0,
+    "head": 0,
+    "phone": 0
+  },
+  "final_score": 0.0,
+  "risk_level": "ALERT",
+  "safety_rating": "\u2605\u2606\u2606\u2606\u2606  Critical \u2013 Do not drive!"
+}

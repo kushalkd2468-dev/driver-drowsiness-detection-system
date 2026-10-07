@@ -1,0 +1,16 @@
+{
+  "driver": "thanu",
+  "date": "2026-05-21",
+  "start_time": "2026-05-21T07:35:49.677192",
+  "end_time": "2026-05-21T07:43:18.926328",
+  "duration_seconds": 449,
+  "alerts": {
+    "drowsy": 94,
+    "yawn": 9,
+    "head": 5,
+    "phone": 0
+  },
+  "final_score": 0.0,
+  "risk_level": "ALERT",
+  "safety_rating": "\u2605\u2606\u2606\u2606\u2606  Critical \u2013 Do not drive!"
+}

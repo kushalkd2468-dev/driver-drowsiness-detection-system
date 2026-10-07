@@ -1,0 +1,20 @@
+====================================================
+       DRIVER DROWSINESS SESSION REPORT
+====================================================
+  Driver        : thanu
+  Date          : 2026-05-20
+  Start Time    : 21:38:32
+  End Time      : 21:43:29
+  Duration      : 04m 57s
+====================================================
+  ALERT SUMMARY
+  Drowsy Alerts : 29
+  Yawn Alerts   : 1
+  Head Alerts   : 4
+  Phone Alerts  : 0
+  Final Score   : 0.0 / 100
+  Risk Level    : ALERT
+====================================================
+  SAFETY RATING
+  ★☆☆☆☆  Critical – Do not drive!
+====================================================

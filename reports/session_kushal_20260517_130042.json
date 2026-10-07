@@ -1,0 +1,16 @@
+{
+  "driver": "kushal",
+  "date": "2026-05-17",
+  "start_time": "2026-05-17T12:57:37.970005",
+  "end_time": "2026-05-17T13:00:42.496603",
+  "duration_seconds": 184,
+  "alerts": {
+    "drowsy": 0,
+    "yawn": 1,
+    "head": 1,
+    "phone": 0
+  },
+  "final_score": 0.0,
+  "risk_level": "ALERT",
+  "safety_rating": "\u2605\u2605\u2605\u2605\u2606  Good \u2013 Minor fatigue signs"
+}

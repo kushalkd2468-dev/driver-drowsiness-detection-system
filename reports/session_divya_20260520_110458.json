@@ -1,0 +1,16 @@
+{
+  "driver": "divya",
+  "date": "2026-05-20",
+  "start_time": "2026-05-20T10:57:09.588031",
+  "end_time": "2026-05-20T11:04:58.498367",
+  "duration_seconds": 468,
+  "alerts": {
+    "drowsy": 46,
+    "yawn": 0,
+    "head": 1,
+    "phone": 0
+  },
+  "final_score": 36.0,
+  "risk_level": "MILD",
+  "safety_rating": "\u2605\u2606\u2606\u2606\u2606  Critical \u2013 Do not drive!"
+}
